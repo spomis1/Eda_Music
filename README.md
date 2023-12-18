@@ -1,6 +1,6 @@
 # Eda_Music
 
-## Spotify vs Youtube Music Analytics Project
+## Spotify and Youtube Music Analytics Project
 
 This research work focuses on the analysis of data from the digital distribution of music through platforms such as Spotify and Youtube. A Dataset with more than twenty thousand songs from various artists is used to identify popularity patterns and their relationship with musical characteristics. Two hypotheses are formulated: that popular songs are more danceable and cheerful, and that the most listened songs have a short duration. The results indicate that popular songs tend to be more danceable, more upbeat, and less energetic, although the differences are not significant, and that songs with short duration are the most listened to. The analysis provides detailed insights into how audiences interact with music in the digital environment and how musical characteristics influence song preference. These findings offer valuable insights for understanding the current music industry and its dynamics in the digital age.
 
