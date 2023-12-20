@@ -45,6 +45,6 @@ readme.md
 <a href="https://www.kaggle.com/datasets"> <img src="https://www.kaggle.com/static/images/site-logo.svg" title="Kaggle" **alt="Kaggle" width="180" height="180"/> </a>
 
 <br></br>
-<p>Espero que este EDA haya sido de tu interés.<br>
+<p>Espero que este proyecto haya sido de tu interés.<br>
 No dudes en consultarme cualquier duda que te haya surgido y siéntete libre de compartirlo! Estoy abierto a recibir tus comentarios y sugerencias.</p></br>
 
