@@ -1,6 +1,6 @@
 <h1>Exploratory Data Analysis (EDA)</h1>
 <div id="header" align="center">
-<!--   <img src="https://github.com/RamonFCerezo/EDA-Possession-in-football/blob/main/img/Ball%20Possession.png" width="800"/> -->
+  <img src="https://github.com/spomis1/Music_EDA/blob/main/img/Music.png" width="800"/>
 </div>
 
 ## Spotify and Youtube Music Analytics Project
