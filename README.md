@@ -42,6 +42,9 @@ readme.md
 
 <h2>Fuentes</h2> 
 <a href="https://chartmetric.com/es"> <img src="https://chartmetric.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzdrkqyxr%2Fproduction-alt%2Fecff7013f37cbf79115cca3d17b47b79de688c0b-161x32.svg%3Frect%3D6%2C0%2C148%2C32%26w%3D153%26h%3D33&w=1920&q=75" title="Chartmetric" **alt="Chartmetic" width="180" height="180"/> </a>
-<img src="https://chartmetric.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzdrkqyxr%2Fproduction-alt%2Fecff7013f37cbf79115cca3d17b47b79de688c0b-161x32.svg%3Frect%3D6%2C0%2C148%2C32%26w%3D153%26h%3D33&w=1920&q=75" title="Chartmetric" **alt="Chartmetic" width="180" height="180"/>
+<a href="https://www.kaggle.com/datasets"> <img src="https://www.kaggle.com/static/images/site-logo.svg" title="Kaggle" **alt="Kaggle" width="180" height="180"/> </a>
 
+<br></br>
+<p>Espero que este EDA haya sido de tu interés.<br></br> 
+No dudes en consultarme cualquier duda que te haya surgido y siéntete libre de compartirlo! Estoy abierto a recibir tus comentarios y sugerencias.</p>
 
