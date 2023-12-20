@@ -36,7 +36,7 @@ readme.md
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" **alt="Pandas" width="180" height="180"/>
 <img src="https://matplotlib.org/stable/_static/logo_dark.svg" title="matplotlib" **alt="Matplotlib" width="220" height="180"/>
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" **alt="Seaborn" width="180" height="180"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="scipy" **alt="scipy" width="180" height="180"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="scipy" **alt="scipy" width="100" height="100"/>
 <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" title="statsmodels" **alt="statsmodels" width="180" height="180"/>
 </div>
 
@@ -45,6 +45,6 @@ readme.md
 <a href="https://www.kaggle.com/datasets"> <img src="https://www.kaggle.com/static/images/site-logo.svg" title="Kaggle" **alt="Kaggle" width="180" height="180"/> </a>
 
 <br></br>
-<p>Espero que este EDA haya sido de tu interés.<br></br> 
+<p>Espero que este EDA haya sido de tu interés.
 No dudes en consultarme cualquier duda que te haya surgido y siéntete libre de compartirlo! Estoy abierto a recibir tus comentarios y sugerencias.</p>
 
