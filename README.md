@@ -32,12 +32,17 @@ readme.md
 
 <h2>Librerias usadas</h2>
 <div>
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" **alt="Numpy" width="180" height="180"/> -->
-<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="180" height="180"/> -->
-<!-- <img src="https://github.com/RamonFCerezo/EDA-Possession-in-football/blob/main/img/matplotlib.svg" title="Pandas" **alt="Pandas" width="220" height="180"/> -->
-<!-- <img src="https://github.com/RamonFCerezo/EDA-Possession-in-football/blob/main/img/Seaborn.svg" title="Pandas" **alt="Pandas" width="180" height="180"/> -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="Numpy" **alt="Numpy" width="180" height="180"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" **alt="Pandas" width="180" height="180"/>
+<img src="https://matplotlib.org/stable/_static/logo_dark.svg" title="matplotlib" **alt="Matplotlib" width="220" height="180"/>
+<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" title="Seaborn" **alt="Seaborn" width="180" height="180"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="scipy" **alt="scipy" width="180" height="180"/>
+<img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" title="statsmodels" **alt="statsmodels" width="180" height="180"/>
 </div>
 
 <h2>Fuentes</h2> 
-<!-- <a href="https://instatsport.com/">Instat</a> -->
+<a href="https://chartmetric.com/es">Chartmetic</a>
+<div>
+<img src="https://chartmetric.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzdrkqyxr%2Fproduction-alt%2Fecff7013f37cbf79115cca3d17b47b79de688c0b-161x32.svg%3Frect%3D6%2C0%2C148%2C32%26w%3D153%26h%3D33&w=1920&q=75" title="Chartmetric" **alt="Chartmetic" width="180" height="180"/>
+</div>
 
