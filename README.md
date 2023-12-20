@@ -41,8 +41,7 @@ readme.md
 </div>
 
 <h2>Fuentes</h2> 
-<a href="https://chartmetric.com/es">Chartmetic</a>
-<div>
+<a href="https://chartmetric.com/es"> <img src="https://chartmetric.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzdrkqyxr%2Fproduction-alt%2Fecff7013f37cbf79115cca3d17b47b79de688c0b-161x32.svg%3Frect%3D6%2C0%2C148%2C32%26w%3D153%26h%3D33&w=1920&q=75" title="Chartmetric" **alt="Chartmetic" width="180" height="180"/> </a>
 <img src="https://chartmetric.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzdrkqyxr%2Fproduction-alt%2Fecff7013f37cbf79115cca3d17b47b79de688c0b-161x32.svg%3Frect%3D6%2C0%2C148%2C32%26w%3D153%26h%3D33&w=1920&q=75" title="Chartmetric" **alt="Chartmetic" width="180" height="180"/>
-</div>
+
 
