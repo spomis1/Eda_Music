@@ -21,12 +21,13 @@ src/
 ├── data/
 │ ├── Spotify_Youtube.csv
 ├── notebooks/
-│ ├── EDA_CODE.ipynb
+│ ├── EDA_Code.ipynb
 ├── utils/
-│ ├── POWER_BI_PRESENTATION.pdf
-│ └── PPT_PRESENTATION.pdf 
-└──  MEMORIA.pdf
-readme.md
+│ ├── EDA_Music_PBI.pbix
+│ ├── PPT_Presentation.pdf
+│ └── Power_BI_Presentation.pdf 
+└──  Memoria.pdf
+README.md
 ```
 
 
@@ -67,13 +68,13 @@ Other queries
 
 Este proyecto se inició con la tarea de buscar datos apropiados para el estudio, lo cual implicó llevar a cabo una exhaustiva investigación. El segundo paso consistió en depurar los datos hasta lograr que fueran aptos para generar información reveladora que contribuyera a responder nuestras hipótesis. Sin embargo, nos encontramos con diversos desafíos, como la gestión de un extenso conjunto de datos, la conversión de los mismos al formato adecuado, la identificación y eliminación de entradas duplicadas, así como un tratamiento exhaustivo de los valores atípicos y el análisis detallado del comportamiento de cada variable.
 
-Una vez depurados los datos, procedí a crear visualizaciones y gráficos con el objetivo de hacer que la información compleja fuera más accesible para cualquier tipo de audiencia. Todos estos pasos pueden revisarse en detalle en el archivo "EDA_CODE.ipyb". Finalmente, llevé a cabo la creación de la presentación en PowerBi (POWER_BI_PRESENTATION) y realicé la exposición acompañada de diapositivas (PPT_PRESENTATION.pdf) en agosto de 2023.
+Una vez depurados los datos, procedí a crear visualizaciones y gráficos con el objetivo de hacer que la información compleja fuera más accesible para cualquier tipo de audiencia. Todos estos pasos pueden revisarse en detalle en el archivo "EDA_Cocde.ipyb". Finalmente, llevé a cabo la creación de la presentación en PowerBi ("EDA_Music_PBI.pbix" y "Power_BI_Presentation.pdf") y realicé la exposición acompañada de diapositivas ("PPT_Presentation.pdf") en agosto de 2023.
 
 //
 
 This project commenced with the task of sourcing appropriate data for the study, a process that demanded extensive research. The second step involved cleaning the data until it was conducive to generating insightful information that would aid in addressing our hypotheses. However, there were challenges, such as dealing with a large dataset, converting the data to the appropriate format, identifying and eliminating duplicate entries, a thorough treatment of outliers, and studying the behavior of each variable.
 
-Once the data was refined, I began creating visualizations and graphs to make the complex data more comprehensible for any audience. All these steps can be observed in the "EDA_CODE.ipynb" file. Finally, I crafted the presentation in PowerBi (POWER_BI_PRESENTATION) and delivered the presentation accompanied by slides (PPT_PRESENTATION.pdf) in August 2023.
+Once the data was refined, I began creating visualizations and graphs to make the complex data more comprehensible for any audience. All these steps can be observed in the "EDA_Code.ipynb" file. Finally, I crafted the presentation in PowerBi ("EDA_Music_PBI.pbix" and "Power_BI_Presentation.pdf") and delivered the presentation accompanied by slides ("PPT_Presentation.pdf") in August 2023.
 
 
 <h2>Librerias usadas</h2>
