@@ -79,7 +79,10 @@ Once the data was refined, I began creating visualizations and graphs to make th
 
 <h2>Dashborard</h2>
 
-<a href="https://www.novypro.com/project/eda---spotify-and-youtube-muisc-analytics"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBi" **alt="PowerBi" width="180" height="180"/></a>
+<a href="https://www.novypro.com/project/eda---spotify-and-youtube-muisc-analytics">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBi" alt="PowerBi" width="180" height="180"/>
+</a>
+
 
 
 <h2>Librerias usadas</h2>
