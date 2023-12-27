@@ -77,6 +77,11 @@ This project commenced with the task of sourcing appropriate data for the study,
 Once the data was refined, I began creating visualizations and graphs to make the complex data more comprehensible for any audience. All these steps can be observed in the "EDA_Code.ipynb" file. Finally, I crafted the presentation in PowerBi ("EDA_Music_PBI.pbix" and "Power_BI_Presentation.pdf") and delivered the presentation accompanied by slides ("PPT_Presentation.pdf") in August 2023.
 
 
+<h2>Dashborard</h2>
+
+<a href="https://www.novypro.com/project/eda---spotify-and-youtube-muisc-analytics"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBi" **alt="PowerBi" width="180" height="180"/></a>
+
+
 <h2>Librerias usadas</h2>
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="Numpy" **alt="Numpy" width="180" height="180"/>
@@ -86,6 +91,8 @@ Once the data was refined, I began creating visualizations and graphs to make th
 <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-horizontal.svg" title="statsmodels" **alt="statsmodels" width="180" height="180"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="scipy" **alt="scipy" width="100" height="100"/>
 </div>
+
+
 
 <h2>Fuentes</h2> 
 <a href="https://chartmetric.com/es"> <img src="https://chartmetric.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzdrkqyxr%2Fproduction-alt%2Fecff7013f37cbf79115cca3d17b47b79de688c0b-161x32.svg%3Frect%3D6%2C0%2C148%2C32%26w%3D153%26h%3D33&w=1920&q=75" title="Chartmetric" **alt="Chartmetic" width="180" height="180"/> </a>
