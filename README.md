@@ -79,7 +79,7 @@ Once the data was refined, I began creating visualizations and graphs to make th
 
 <h2>Dashborard</h2>
 
-Haz clic en el icono de Power BI para interactuar con el Dashboard.<br>
+Haz clic en el icono de Power BI para interactuar con el dashboard.<br>
 Click on the Power BI icon to interact with the dashboard.
 
 
