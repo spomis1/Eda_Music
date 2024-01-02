@@ -33,10 +33,10 @@ README.md
 
 <h2>Hipótesis</h2>
 
-1-	Las canciones más populares son las más bailables, alegres y enérgicas
+1-	Las canciones más populares son las más bailables, alegres y enérgicas.<br>
 Nos basamos en la idea de que a las personas les atraen especialmente las canciones tienen características positivas
 
-2-	Las canciones más escuchadas no pueden tener una duración muy larga.
+2-	Las canciones más escuchadas no pueden tener una duración muy larga.<br>
 Partimos de la premisa que las personas no suelen escuchar muchas veces una canción muy larga.
 
 Estudiaremos características musicales de canciones y sus métricas para poder contestar esta pregunta
@@ -49,10 +49,10 @@ Otras consultas
 
 //
 
-1- The most popular songs are the most danceable, happy and energetic ones.
+1- The most popular songs are the most danceable, happy and energetic ones. <br>
 We base this on the idea that people are especially attracted to songs with positive characteristics.
 
-2- The most listened songs cannot have a very long duration.
+2- The most listened songs cannot have a very long duration.<br>
 We start from the premise that people do not tend to listen many times to a very long song.
 
 We will study musical characteristics of songs and their metrics in order to answer this question.
