@@ -111,6 +111,6 @@ I hope this project has been of interest to you. Feel free to ask me any questio
 
 </p></br>
 
-<h2>Autor:</h2> 
-[Sebastian Pomi](https://www.linkedin.com/in/sebastianpomi/)
+<h2>Autor:</h2>
+<a href="https://www.linkedin.com/in/sebastianpomi/" target="_blank">Sebastian Pomi</a>
 
