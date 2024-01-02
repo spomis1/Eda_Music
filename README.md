@@ -103,5 +103,14 @@ Once the data was refined, I began creating visualizations and graphs to make th
 
 <br></br>
 <p>Espero que este proyecto haya sido de tu interés.<br>
-No dudes en consultarme cualquier duda que te haya surgido y siéntete libre de compartirlo! Estoy abierto a recibir tus comentarios y sugerencias.</p></br>
+No dudes en consultarme cualquier duda que te haya surgido y siéntete libre de compartirlo! Estoy abierto a recibir tus comentarios y sugerencias.
+
+//
+
+I hope this project has been of interest to you. Feel free to ask me any questions that may have arisen, and feel free to share it! I am open to receiving your comments and suggestions.
+
+</p></br>
+
+<h2>Autor:</h2> 
+[Sebastian Pomi](https://www.linkedin.com/in/sebastianpomi/)
 
