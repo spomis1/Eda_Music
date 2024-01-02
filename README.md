@@ -79,8 +79,12 @@ Once the data was refined, I began creating visualizations and graphs to make th
 
 <h2>Dashborard</h2>
 
+Haz clic en el icono de Power BI para interactuar con el Dashboard.<br>
+Click on the Power BI icon to interact with the dashboard.
+
+
 <a href="https://www.novypro.com/project/eda---spotify-and-youtube-muisc-analytics">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBi" alt="PowerBi" width="180" height="180"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="PowerBi" alt="PowerBi" width="100" height="100"/>
 </a>
 
 
