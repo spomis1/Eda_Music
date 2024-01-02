@@ -89,7 +89,7 @@ Click on the Power BI icon to interact with the dashboard.
 
 
 
-<h2>Librerias usadas</h2>
+<h2>Librerías utilizadas</h2>
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" title="Numpy" **alt="Numpy" width="180" height="180"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" **alt="Pandas" width="180" height="180"/>
